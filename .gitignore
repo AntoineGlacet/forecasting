@@ -1,4 +1,6 @@
-/Easy XGBoost regression.ipynb
-/data
-/test.py
-/output
+*
+!notebooks
+!notebooks/*
+!.pre-commit-config.yaml
+!README.md
+!environment.yml
