@@ -6,8 +6,8 @@ Contribute
 ------------
 - Fork
 - Install & activate conda env (environment.yml)
-- Install [pre-commit](https://pre-commit.com/) hooks `pre-commit install`
-- Install [nb_stripout](https://github.com/kynan/nbstripout)`nbstripout --install`
+- Install [pre-commit](https://pre-commit.com/) hooks => `pre-commit install`
+- Install [nb_stripout](https://github.com/kynan/nbstripout) => `nbstripout --install`
 - Open pull request
 
 Remarks
