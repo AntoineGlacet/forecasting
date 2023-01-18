@@ -5,7 +5,7 @@ test for forecasting LF
 Contribute
 ------------
 - Fork
-- Install conda env and src (see [Prerequisite](#prerequisite))
+- Install conda env
 - Install [pre-commit](https://pre-commit.com/) hooks
 ```
 pre-commit install
